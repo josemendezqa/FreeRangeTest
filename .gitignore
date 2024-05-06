@@ -3,3 +3,51 @@
 
 # Ignore Gradle build output directory
 build
+
+# Compiled class file
+*.class
+
+# Log files
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Development
+.gradle/
+build/
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Maven specific files
+target/
+
+# Selenium Webdriver Logs
+webdriver.log
+
+# TestNG Reports
+test-output/
+
+# Eclipse project files
+.settings/
+
+# IntelliJ project files
+*.iml
+out/
+
+# Temporary files
+*.tmp
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# Maven Wrapper
+.mvn/wrapper/maven-wrapper.jar
