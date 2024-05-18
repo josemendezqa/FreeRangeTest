@@ -22,3 +22,4 @@ Feature: Navitgation bar
 Scenario: Courses are presented correctly to potential customers
     Given I navigate to www.freerangetesters.com
     When I select Elegir Plan
+    Then I can validate option on the options in the checkout page
